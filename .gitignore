@@ -6,6 +6,5 @@ build/side.txt
 
 # Игнорировать все файлы с расширением .doc
 *.doc
-
 .env
 first_project/venv
